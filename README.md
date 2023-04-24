@@ -10,6 +10,15 @@
 
 - 📫 How to reach me **dinushamadhushani1997@gmail.com**
 
+- Skills:
+- languages: C, C++, Java, JavaScript, PHP, HTML, CSS, MERN(MongoDB, Expressjs, Reactjs, Nodejs), Python, R
+- Databases: SQL, SQL Lite, MySQL, MongoDB, Firebase
+- Softwares: Eclipse, Visual Studio, Visual Studio Code, Android Studio, Netbeans, Anaconda, Figma
+- Ms Office
+- Artifical Inteligence 
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dinusha premathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinusha premathilaka" height="30" width="40" /></a>
