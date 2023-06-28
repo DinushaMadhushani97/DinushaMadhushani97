@@ -15,7 +15,8 @@
 - Databases: SQL, SQL Lite, MySQL, MongoDB, Firebase
 - Softwares: Eclipse, Visual Studio, Visual Studio Code, Android Studio, Netbeans, Anaconda, Figma
 - Ms Office
-- Artifical Inteligence 
+- Artifical Inteligence
+- Ardunio
 
 
 
