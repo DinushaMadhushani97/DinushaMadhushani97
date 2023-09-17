@@ -25,6 +25,8 @@
 <a href="https://fb.com/dinusha premathilaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinusha premathilaka" height="30" width="40" /></a>
 <a href="https://dribbble.com/dinupremathilaka97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dinupremathilaka97" height="30" width="40" /></a>
 <a href="https://hashnode.com/@fire97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@fire97" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@dinushamadhusha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dinushamadhusha1" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@dinushamadhushani1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dinushamadhushani1997" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
