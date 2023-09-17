@@ -2,21 +2,22 @@
 <h3 align="center">Undergradutae Student in SLIIT, Sri Lanka</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
-- 🔭 I’m currently working on **Life Below Water - Ozone**
+- 🔭 I’m currently working on **Food Management FullStack Application - FoodieLavinia**
 
-- 🌱 I’m currently learning **AI, ML, Springboot**
+- 🌱 I’m currently learning **AI, ML, Springboot, Go**
 
-- 💬 Ask me about **Java, Node js**
+- 💬 Ask me about **Java, Node js, Spring Boot, React Js**
 
 - 📫 How to reach me **dinushamadhushani1997@gmail.com**
 
 - Skills:
-- languages: C, C++, Java, JavaScript, PHP, HTML, CSS, MERN(MongoDB, Expressjs, Reactjs, Nodejs), Python, R
+- languages: C, C++, Java, JavaScript, PHP, HTML, CSS, MERN(MongoDB, Expressjs, Reactjs, Nodejs), Python, R, Go
 - Databases: SQL, SQL Lite, MySQL, MongoDB, Firebase
 - Softwares: Eclipse, Visual Studio, Visual Studio Code, Android Studio, Netbeans, Anaconda, Figma
 - Ms Office
 - Artifical Inteligence
 - Ardunio
+- Frameworks: MERN, React-Spring Boot
 
 
 
