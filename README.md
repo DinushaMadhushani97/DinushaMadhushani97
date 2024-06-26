@@ -4,7 +4,14 @@
 <p align="center">
   <img src="myImage.jpg" alt="Dinusha Premathilaka"  style="border-radius: 50%;" />
 </p>
+ <h3>About me</h3>
+<p>
+ 
+  I am Dinusha Premathilaka, an undergraduate student at SLIIT, pursuing a BSc Hons in Information Technology with a specialization in Information Technology. I have a six-month internship experience at the Information Communication Technology Agency in Sri Lanka and also completed another Internship with Hansaraj Ventures Pvt. LTd. , India. My expertise includes JAVA, SPRINGBOOT, React, Node, MYSQL, HTML, CSS, as well as proficiency in JavaScript, PYTHON, R, GO, C, C++, PHP, with a track record of successfully completing various projects. Up to Know I developed project in university, at office and myself totally more than that 50. As well as Code more than 1000.
 
+I consider myself a quick and self-learner, continuously expanding my knowledge through self-study in various technologies. Beyond technology, I actively engage in volunteering, contributing as a Scientist Writer, University Scientist Ambassador in Sri Lanka, Content Writer, Proposal Writer, ER Coordinator, Assistant Project Manager, Member of Generation Alpha, and a valued member of the IEEE secretary team.
+
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dinushamadhushani97&label=Profile%20views&color=0e75b6&style=flat" alt="dinushamadhushani97" />
 </p>
