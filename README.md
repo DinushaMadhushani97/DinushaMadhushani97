@@ -34,9 +34,9 @@ I consider myself a quick and self-learner, continuously expanding my knowledge 
   - Sri Lankan Scientist Ambassador
   - IEEE Volunteer - Secretary Team
   - Generation Alpha - Member
-  - Wtech - Assistant Project Manager
+  - Hack Like a Girl 2.0 Project - Assistant Project Manager
+  - Hack Like a Girl 2.0 Project - Project Manager
   - Alliance of Mastermind - Proposal Writer
-  - Start-up-Eco-System - Documentation Partner
   - Extra Curricular, Dahara Project (SLIIT LEO)
   - Youth Empowerment (SLIIT LEO)
   - Mozilla Club of SLIIT
