@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate Student at SLIIT, Sri Lanka</h3>
 
 <p align="center">
-  <img src="myImage.jpg" alt="Dinusha Premathilaka"  style="border-radius: 50%;" />
+  <img src="download.png" alt="Dinusha Premathilaka"  style="border-radius: 50%;" />
 </p>
  <h3>About me</h3>
 <p>
